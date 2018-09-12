@@ -1,3 +1,14 @@
+<div id="fb-root"></div>
+<script>
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=108670731932";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
 <h1>Follow Octopussy</h1>
 
 <table>
@@ -17,7 +28,7 @@ You can contribute to Octopussy Project in many ways:
 <li>Submit <% INCLUDE 'widgets/link_bug_report.tt' text='Bug Reports' %> / <% INCLUDE 'widgets/link_feature_request.tt' text='Feature Requests' %></li>
 <li>Send me New/Update Service/Table/Report configuration files at <b>octo.devel@gmail.com</b>.</li>
 <li>Send me updates for translations in <i>/usr/share/aat/Translations/*.po</i> configuration files at <b>octo.devel@gmail.com</b>.</li>
-<li>Make a donation <% INCLUDE 'widgets/link_donation.tt' text='on SourceForge' %> or with Flattr. <a class="FlattrButton" style="display:none;" href="http://www.8pussy.org"></a></li>
+<li>Make a donation <% INCLUDE 'widgets/link_donation.tt' text='on SourceForge' %>.</li>
 <li>Send me a <a href="http://www.amazon.fr/gp/registry/registry.html?ie=UTF8&type=wishlist&id=34KT9FGSFKPDR">gift from amazon.fr</a></li>
 </ul>
 
