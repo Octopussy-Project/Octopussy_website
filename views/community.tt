@@ -37,7 +37,7 @@ You can contribute to Octopussy Project in many ways:
 <td>
 <% INCLUDE 'widgets/link_sourceforge_user.tt' user='sebthebert' %>
 <% INCLUDE 'widgets/badge_openhub_user.tt' userid=21166 %>
-<% INCLUDE 'widgets/badge_stackexchange_user.tt' userid='1e4cf9844a4b427aaa52d7f76e851443' %>
+<% INCLUDE 'widgets/badge_stackexchange_user.tt' userid='12563' %>
 </td>
 </tr>
 <tr>

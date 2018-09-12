@@ -1,2 +1,2 @@
-<a href="http://stackexchange.com">
-<img src="http://stackexchange.com/users/flair/<% userid %>.png" width="208" height="58"></a>
+<a href="https://stackexchange.com/users/<% userid %>">
+<img src="https://stackexchange.com/users/flair/<% userid %>.png" width="208" height="58" alt="User profile on Stack Exchange" title="User profile on Stack Exchange" /></a>
