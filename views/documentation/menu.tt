@@ -1,0 +1,17 @@
+<ul class="nav nav-list">
+    <li class="nav-header">Guides</li>
+<% FOREACH g in guides %>
+    <li><a href="/documentation/guides/<% g.directory %>/00_cover"><% g.label %></a></li>
+<% END %>
+    <li class="nav-header">HowTos</li>
+<% FOREACH h in howtos %>
+    <li><a href="/documentation/howtos/<% h.file %>"><% h.label %></a></li>
+<% END %>
+    <li class="nav-header">Tutorials</li>
+<% FOREACH t in tutorials %>
+    <li><a href="/documentation/tutorials/<% t.file %>"><% t.label %></a></li>
+<% END %>
+    <li class="divider"></li>
+    <li><a href="/documentation/faq">FAQ</a></li>
+	<li><a href="/documentation/troubleshooting">Troubleshooting</a></li>
+</ul>

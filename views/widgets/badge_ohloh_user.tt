@@ -1,0 +1,2 @@
+<a href='https://www.ohloh.net/accounts/<% userid %>?ref=Detailed'>
+<img height='35' src='https://www.ohloh.net/accounts/<% userid %>/widgets/account_detailed.gif' width='191' /></a>

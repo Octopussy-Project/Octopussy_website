@@ -1,0 +1,38 @@
+<div class="page-header" align="center">
+  	<h1>Octopussy</h1>
+  	<p>Open Source Log Management Solution</p>
+	<img src="img/pieuvre.gif" />
+	<div align="center"><i>Copyright 2005-2017 Sebastien Thebert</i></div>
+</div>
+<div align="center">
+<table cellpadding="5">
+<tr>
+<td colspan="4" align="center">
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="6YKPFCWAYCJ9L">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+</td>
+</tr>
+<tr>
+<td><% INCLUDE 'widgets/badge_ohloh.tt' %></td>
+<td><a class="FlattrButton" style="display:none;" href="http://www.8pussy.org"></a></td>
+<td><% INCLUDE 'widgets/badge_facebook_like.tt' %></td>
+<td><% INCLUDE 'widgets/badge_google_plus_one.tt' %></td>
+</tr>
+</table>
+</div>
+
+<h2>Features</h2>
+
+<% html_features %>
+
+<hr>
+
+<h2>News</h2>
+
+<% INCLUDE 'home_history.tt' %>

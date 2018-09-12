@@ -1,0 +1,3 @@
+<% INCLUDE 'widgets/thumbnails.tt' title='Octopussy 0.9.4.4' pictures=pictures_0944 %>
+<% INCLUDE 'widgets/thumbnails.tt' title='Octopussy 0.9.4' pictures=pictures_0940 %>
+<% INCLUDE 'widgets/thumbnails.tt' title='Octopussy Artwork' pictures=artwork %>

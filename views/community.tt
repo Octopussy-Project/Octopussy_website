@@ -1,0 +1,116 @@
+<h1>Follow Octopussy</h1>
+
+<table>
+<tr>
+<td><div class="g-community" data-href="https://plus.google.com/communities/116407553029092753056"></div></td>
+<td><script type="text/javascript" src="http://www.ohloh.net/p/14575/widgets/project_basic_stats.js"></script></td>
+<td><div class="fb-like-box" data-href="http://www.facebook.com/pages/Octopussy/117548621666188" data-width="292" data-show-faces="true" data-stream="false" data-header="false"></div></td>
+</tr>
+</table>
+
+<hr>
+
+<h1>Contribute to Octopussy</h1>
+
+You can contribute to Octopussy Project in many ways:
+<ul>
+<li>Submit <% INCLUDE 'widgets/link_bug_report.tt' text='Bug Reports' %> / <% INCLUDE 'widgets/link_feature_request.tt' text='Feature Requests' %></li>
+<li>Send me New/Update Service/Table/Report configuration files at <b>octo.devel@gmail.com</b>.</li>
+<li>Send me updates for translations in <i>/usr/share/aat/Translations/*.po</i> configuration files at <b>octo.devel@gmail.com</b>.</li>
+<li>Make a donation <% INCLUDE 'widgets/link_donation.tt' text='on SourceForge' %> or with Flattr. <a class="FlattrButton" style="display:none;" href="http://www.8pussy.org"></a></li>
+<li>Send me a <a href="http://www.amazon.fr/gp/registry/registry.html?ie=UTF8&type=wishlist&id=34KT9FGSFKPDR">gift from amazon.fr</a></li>
+</ul>
+
+<h2>Contributors</h2>
+
+<table class="table table-bordered">
+<thead>
+<tr>
+<th>Contributor</th>
+<th>Contribution</th>
+<th>SourceForge/Ohloh/StackOverflow details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sebastien Thebert</td><td>Project Leader</td>
+<td>
+<% INCLUDE 'widgets/link_sourceforge_user.tt' user='sebthebert' %>
+<% INCLUDE 'widgets/badge_ohloh_user.tt' userid=21166 %>
+<% INCLUDE 'widgets/badge_stackexchange_user.tt' userid='1e4cf9844a4b427aaa52d7f76e851443' %>
+</td>
+</tr>
+<tr>
+<td>Victor Barahona</td><td>Bug Reports & Spanish Translation</td>
+<td><% INCLUDE 'widgets/link_sourceforge_user.tt' user='vbarahona' %></td>
+</tr>
+<tr>
+<td>Tyler Coumbes</td><td>Work on syslog-ng to rsyslog migration</td>
+<td><% INCLUDE 'widgets/link_sourceforge_user.tt' user='coumbes' %></td>
+</tr>
+<tr>
+<td><i>Diaolin</i></td><td>Italian Translation</td>
+<td></td>
+</tr>
+<tr>
+<td>John Fernandez</td><td>Bug Reports</td>
+<td></td>
+</tr>
+<tr>
+<td>Marc Fernandez</td><td>Bug Reports</td>
+<td></td>
+</tr>
+<tr>
+<td>Hubert Gendrot</td><td>Bug Reports & Service/Table Updates</td>
+<td><% INCLUDE 'widgets/link_sourceforge_user.tt' user='hubert_78' %>
+<% INCLUDE 'widgets/badge_ohloh_user.tt' userid=22576 %>
+</td>
+</tr>
+<tr>
+<td>Mathias Hollstein</td><td>Bug Reports & Service/Table Updates</td>
+<td><% INCLUDE 'widgets/link_sourceforge_user.tt' user='hollstein' %></td>
+</tr>
+<tr>
+<td>Janez Košmrlj</td><td>Bug Reports & Service/Table Updates</td>
+<td><% INCLUDE 'widgets/link_sourceforge_user.tt' user='janezk' %></td>
+</tr>
+<tr>
+<td>James McLoughlin</td><td>Donation</td>
+<td></td>
+</tr>
+<tr>
+<td>William Miroux</td><td>Bug Reports</td>
+<td></td>
+</tr>
+<tr>
+<td>Hartmut Panten</td><td>Bug Reports & German Translation</td>
+<td></td>
+</tr>
+<tr>
+<td>Andrew Pantyukhin (aka <i>infofarmer</i>)</td><td>Donation & Russian Translation</td>
+<td><% INCLUDE 'widgets/link_sourceforge_user.tt' user='infofarmer' %>
+<% INCLUDE 'widgets/badge_ohloh_user.tt' userid=1844 %>
+</td>
+</tr>
+<tr>
+<td>Remi Pointel</td><td>Bug Reports</td>
+<td></td>
+</tr>
+<tr>
+<td>Michael Schneck</td><td>Bug Reports & Service/Table Updates</td>
+<td><% INCLUDE 'widgets/link_sourceforge_user.tt' user='chefkeks' %></td>
+</tr>
+<tr>
+<td>Christophe Thiesset</td><td>Bug Reports & Bugfixes</td>
+<td><% INCLUDE 'widgets/link_sourceforge_user.tt' user='cthiesset' %></td>
+</tr>
+<tr>
+<td>Rafael Henrique Vieira</td><td>Bug Reports & Portuguese Translation</td>
+<td></td>
+</tr>
+<tr>
+<td>Pavel Volkovitskiy (aka <i>olfway</i>)</td><td>Bug Reports</td>
+<td><% INCLUDE 'widgets/link_sourceforge_user.tt' user='olfway' %></td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,25 @@
+<div class="navbar navbar-inverse">
+<div class="navbar-inner">
+<div class="container">
+<a class="brand" href="#">Octopussy</a>
+<ul class="nav">
+	<li><a href="/">
+        <i class="icon-home icon-white"></i> Home</a></li>
+    <li><a href="/documentation/">
+        <i class="icon-book icon-white"></i> Documentation</a></li>
+	<li><a href="/download">
+        <i class="icon-download-alt icon-white"></i> Download</a></li>
+	<li><a href="/screenshots">
+        <i class="icon-picture icon-white"></i> Screenshots</a></li>
+	<li><a href="/community">
+        <i class="icon-globe icon-white"></i> Community</a></li>
+</ul>
+<!--
+<ul class="nav pull-right">
+	<li><a href="/services">
+     	<i class="icon-briefcase icon-white"></i> Professional Services</a></li>
+</ul>
+-->
+</div>
+</div>
+</div>

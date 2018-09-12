@@ -1,0 +1,6 @@
+<h3><% title %></h3>
+<ul class="thumbnails">
+<% FOREACH p IN pictures %>
+	<li class="span4"><a href="<% p.file %>" class="thumbnail"><img src="<% p.file %>" /></a></li>
+<% END %>
+</ul>

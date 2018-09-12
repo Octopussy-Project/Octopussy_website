@@ -1,0 +1,69 @@
+<h1>Octopussy Professional Services</h1>
+
+<hr>
+<h2>Sponsored Feature Requests</h2>
+
+If you want to make <b>Octopussy evolves faster</b>, you can contribute by <b>sponsoring some of these features</b>.
+<br>
+<br>
+
+<h4><i class="icon-book"></i> Octopussy User Guide</h4>
+
+<table>
+<tr><td>
+
+The most recurrent complaint about Octopussy is its lack of Documentation.<br>
+So I would like to write a complete Octopussy User Guide.<br>
+<br>
+This guide will cover:<br>
+<ul>
+<li>Installation</li>
+<li>Quickstart</li>
+<li>How Octopussy works</li>
+<li>Devices (with or without syslog)</li>
+<li>Devicegroups</li>
+<li>Services</li>
+<li>Servicegroups</li>
+<li>Search in your logs with Logs Viewer</li>
+<li>Reports (and its plugins)</li>
+<li>Alerts</li>
+<li>Users (rights, local and LDAP users)</li>
+<li>Services</li>
+<li>Create your Service(s) with Logs Wizard</li>
+<li>... and everything else you need to know about Octopussy...</li>
+</ul> 
+
+I launched an <a href="http://www.indiegogo.com/projects/octopussy-user-guide/x/4213446">Indiegogo campaign</a> on September 26, 2013 in order to fund this feature request.<br>
+More information about this campaign on the right side here.<br>
+
+</td><td align="right">
+<iframe src="http://www.indiegogo.com/project/483151/widget/4213446" width="224px" height="486px" frameborder="0" scrolling="no"></iframe>
+</td>
+</tr>
+</table>
+
+<h4><i class="icon-globe"></i> New Web Interface</h4>
+
+I would like to move from the old <a href="http://www.apache-asp.org/">Apache::ASP</a> web framework to the really good <a href="http://www.perldancer.org/">Perl Dancer</a> Web framework. 
+I also want to improve design by using <a href="http://getbootstrap.com/2.3.2/">Bootstrap</a> and <a href="http://fortawesome.github.io/Font-Awesome/">FontAwesome</a>.
+
+<h4><i class="icon-bar-chart"></i> Better Reports</h4>
+
+I would like to move from <a href="http://teethgrinder.co.uk/open-flash-chart/">Open Flash Chart</a> to the <a href="http://www.flotcharts.org/">Flot</a> javascript charting to render better and more portable Reports.
+ 
+<h4>Indexer for faster searches</h4>
+
+Octopussy is fast to acquire new logs, but not so much to search through your logs. I would like to improve that part by improving logs indexing.
+
+<h4>Octopussy modularity for better scalability</h4>
+
+The idea is to have only one Web interface to handle many Octopussy servers.
+
+<hr>
+<h2>Specific Octopussy Service creation</h2>
+
+<hr>
+<h2>Interactive demo/support with Google Hangout screensharing</h2>
+
+<hr>
+<h2>On-Site Octopussy consulting</h2>

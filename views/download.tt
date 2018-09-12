@@ -1,0 +1,17 @@
+<h1>Octopussy Download</h1>
+
+<div align="center">
+<a href="https://github.com/sebthebert/Octopussy" class="btn btn-primary btn-large">
+Download Octopussy on GitHub</a>
+</div>
+<br>
+<div align="center">
+<a href="http://sourceforge.net/project/showfiles.php?group_id=154314" class="btn btn-primary btn-large">
+Download Octopussy on SourceForge</a>
+</div>
+
+<hr>
+
+<h1>Octopussy Detailed Changelog</h1>
+
+<% html_changelog %>

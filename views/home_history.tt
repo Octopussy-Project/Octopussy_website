@@ -1,0 +1,557 @@
+<div class="accordion" id="accordion_history">
+
+	<div class="accordion-group">
+        <div class="accordion-heading">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion_history" href="#collapse2017">2017</a>
+        </div>
+        <div id="collapse2017" class="accordion-body collapse in">
+        <div class="accordion-inner">
+
+<table class="table table-bordered">
+<tr>
+<td>2017-06-03</td>
+<td>Octopussy v1.0.16 release ! (<% INCLUDE 'widgets/link_changelog.tt' version=116 %>)</td>
+</tr>
+</table>
+
+        </div>	
+	
+    <div class="accordion-group">
+		<div class="accordion-heading">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion_history" href="#collapse2014">2014</a>
+        </div>
+        <div id="collapse2014" class="accordion-body collapse in">
+        <div class="accordion-inner">
+
+<table class="table table-bordered">
+<tr>
+<td>2014-04-15</td>
+<td>Octopussy v1.0.14 release ! (<% INCLUDE 'widgets/link_changelog.tt' version=114 %>)</td>
+</tr>
+<tr>
+<td>2014-03-26</td>
+<td>Octopussy v1.0.13 release ! (<% INCLUDE 'widgets/link_changelog.tt' version=113 %>)</td>
+</tr>
+<tr>
+<td>2014-03-22</td>
+<td>Octopussy v1.0.12 release ! (<% INCLUDE 'widgets/link_changelog.tt' version=112 %>)</td>
+</tr>
+<tr>
+<td>2014-02-16</td>
+<td>Octopussy v1.0.11 release ! (<% INCLUDE 'widgets/link_changelog.tt' version=111 %>)</td>
+</tr>
+</table>
+
+		</div>
+	
+        <div class="accordion-heading">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion_history" href="#collapse2013">2013</a>
+        </div>
+        <div id="collapse2013" class="accordion-body collapse in">
+        <div class="accordion-inner">
+
+<table class="table table-bordered">
+<tr>
+<td>2013-11-19</td>
+<td>Octopussy source code is now on <a href="https://github.com/sebthebert/Octopussy">GitHub</a><br>
+The bugs, feature-requests, support-requests & patches tickets have been migrated to <a href="https://github.com/sebthebert/Octopussy/issues">GitHub issues</a> as well</td>
+</tr>
+<tr>
+<td>2013-07-18</td>
+<td>Octopussy v1.0.10 release ! (<% INCLUDE 'widgets/link_svn_revision.tt' revision=668 text="revision 668" %> in subversion) (<% INCLUDE 'widgets/link_changelog.tt' version=110 %>)</td>
+</tr>
+<tr>
+<td>2013-05-24</td>
+<td>Octopussy v1.0.9 release ! (<% INCLUDE 'widgets/link_svn_revision.tt' revision=650 text="revision 650" %> in subversion) (<% INCLUDE 'widgets/link_changelog.tt' version=109 %>)</td>
+</tr>
+<tr>
+<td>2013-02-26</td>
+<td>Octopussy v1.0.8 release ! (<% INCLUDE 'widgets/link_svn_revision.tt' revision=636 text="revision 636" %> in subversion) (<% INCLUDE 'widgets/link_changelog.tt' version=108 %>)</td>
+</tr>
+<tr>
+<td>2013-01-20</td>
+<td>Octopussy v1.0.7 release ! (<% INCLUDE 'widgets/link_svn_revision.tt' revision=625 text="revision 625" %> in subversion) (<% INCLUDE 'widgets/link_changelog.tt' version=107 %>)</td>
+</tr>
+</table>
+	
+	</div>
+
+	<div class="accordion-group">
+    	<div class="accordion-heading">
+      	<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion_history" href="#collapse2012">2012</a>
+    	</div>
+    	<div id="collapse2012" class="accordion-body collapse">
+      	<div class="accordion-inner">
+
+<table class="table table-bordered">
+<tr>
+<td>2012-12-07</td>
+<td><a href="https://plus.google.com/u/0/communities/116407553029092753056">Octopussy Google+ Community</a> created</td>
+</tr>
+<tr>
+<td>2012-09-06</td>
+<td>Octopussy v1.0.6 release ! (<% INCLUDE 'widgets/link_svn_revision.tt' revision=601 text="revision 601" %> in subversion) (<% INCLUDE 'widgets/link_changelog.tt' version=106 %>)</td>
+</tr>
+<tr>
+<td>2012-06-25</td>
+<td>Octopussy v1.0.5 release ! (<% INCLUDE 'widgets/link_svn_revision.tt' revision=580 text="revision 580" %> in subversion) (<% INCLUDE 'widgets/link_changelog.tt' version=105 %>)</td>
+</tr>
+<tr>
+<td>2012-06-21</td>
+<td>Octopussy v1.0.4 release ! (<% INCLUDE 'widgets/link_svn_revision.tt' revision=576 text="revision 576" %> in subversion) (<% INCLUDE 'widgets/link_changelog.tt' version=104 %>)</td>
+</tr>
+<tr>
+<td>2012-04-14</td>
+<td>Octopussy has a less Sexy, more Perlish URL www.octopussy.pm</td>
+</tr>
+<tr>
+<td>2012-04-04</td><td>Octopussy v1.0.3 release ! (<% INCLUDE 'widgets/link_svn_revision.tt' revision=560 text="revision 560" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version=103 -%>)</td>
+</tr>
+</table>
+
+		</div>
+		</div>
+	</div>
+	<div class="accordion-group">
+		<div class="accordion-heading">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion_history" href="#collapse2011">2011</a>
+        </div>
+        <div id="collapse2011" class="accordion-body collapse">
+        <div class="accordion-inner">
+	
+<table class="table table-bordered">
+<tr>
+<td>2011-12-19</td><td>Octopussy v1.0.2 release ! (<% INCLUDE 'widgets/link_svn_revision.tt' revision=539 text="revision 539" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version=102 -%>)</td>
+</tr>
+<tr>
+<td>2011-11-15</td><td>Octopussy v1.0.1 release ! (<% INCLUDE 'widgets/link_svn_revision.tt' revision=533 text="revision 533" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version=101 -%>)</td>
+</tr>
+<tr>
+<td>2011-11-11</td><td>Octopussy v1.0 release ! (<% INCLUDE 'widgets/link_svn_revision.tt' revision=525 text="revision 525" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version=10 -%>)</td>
+</tr>
+<tr>
+<td>2011-11-08</td><td>Octopussy is now officially on <a href="https://plus.google.com/105461138145749704286">Google+</a> !</td>
+</tr>
+<tr>
+<td>2011-11-02</td><td>Octopussy v1.0rc6 release. (<% INCLUDE 'widgets/link_svn_revision.tt' revision=514 text="revision 514" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='10rc6' -%>)</td>
+</tr>
+<tr>
+<td>2011-10-13</td><td>Octopussy is now <a href="http://archive.ubuntu.com/ubuntu/ubuntu/pool/universe/o/octopussy/">packaged</a> in Ubuntu Oneiric Ocelot (11.10) ! (Thanks to James Page)</td>
+</tr>
+<tr>
+<td>2011-09-10</td><td>Octopussy v1.0rc5 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=491 text="revision 491" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='10rc5' -%>)</td>
+</tr>
+<tr>
+<td>2011-09-04</td><td><b>Tentacles Week #1</b> (5 days of hard work on Octopussy) starting tomorrow !</td>
+</tr>
+<tr>
+<td>2011-07-06</td><td>Octopussy v1.0rc4 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=478 text="revision 478" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='10rc4' -%>)</td>
+</tr>
+<tr>
+<td>2011-06-08</td><td>Google <a href="http://www.google.com/+1/button/">+1 button</a> added to Octopussy Website.</td>
+</tr>
+<tr>
+<td>2011-03-23</td><td>Octopussy reached <b>25000 downloads</b></td>
+</tr>
+<tr>
+<td>2011-02-15</td><td>Octopussy v1.0rc3 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=453 text="revision 453" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='10rc3' -%>)</td>
+</tr>
+<tr>
+<td>2011-01-26</td><td>Octopussy v1.0rc2 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=437 text="revision 437" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='10rc2' -%>)</td>
+</tr>
+<tr>
+<td>2011-01-14</td><td>Octopussy v1.0rc1 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=427 text="revision 427" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='10rc1' -%>)</td>
+</tr>
+<tr>
+<td>2011-01-07</td><td>You can now donate to Octopussy with <a href="https://flattr.com">Flattr</a>.</td>
+</tr>
+</table>
+
+		</div>
+        </div>
+	</div>
+    <div class="accordion-group">
+		<div class="accordion-heading">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion_history" href="#collapse2010">2010</a>
+        </div>
+        <div id="collapse2010" class="accordion-body collapse">
+        <div class="accordion-inner">
+
+<table class="table table-bordered">
+<tr>
+<td>2010-12-26</td><td>Octopussy reached <b>22000 downloads</b></td>
+</tr>
+<tr>
+<td>2010-09-03</td><td>Octopussy v0.9.9.9.9 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=399 text="revision 399" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='09999' -%>)</td>
+</tr>
+<tr>
+<td>2010-07-02</td><td>Octopussy reached <b>18000 downloads</b></td>
+</tr>
+<tr>
+<td>2010-06-04</td><td>Octopussy v0.9.9.9.8 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=364 text="revision 364" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='09998' -%>)</td>
+</tr>
+<tr>
+<td>2010-04-05</td><td>Octopussy reached <b>16000 downloads</b></td>
+</tr>
+<tr>
+<td>2010-02-25</td><td>Octopussy v0.9.9.9.6 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=319 text="revision 319" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='09996' -%>)</td>
+</tr>
+<tr>
+<td>2010-02-01</td><td><b>Download Record for January 2010 with 1312 downloads</b></td>
+</tr>
+<tr>
+<td>2010-01-31</td><td>Octopussy reached <b>14000 downloads</b></td>
+</tr>
+<tr>
+<td>2010-01-19</td><td>Octopussy v0.9.9.9.2 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=276 text="revision 276" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='09992' -%>)</td>
+</tr>
+<tr>
+<td>2010-01-12</td><td>Octopussy v0.9.9.9 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=269 text="revision 269" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='0999' -%>)</td>
+</tr>
+</table>
+
+		</div>
+        </div>
+	</div>
+    <div class="accordion-group">
+        <div class="accordion-heading">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion_history" href="#collapse2009">2009</a>
+        </div>
+        <div id="collapse2009" class="accordion-body collapse">
+        <div class="accordion-inner">
+
+<table class="table table-bordered">
+<tr>
+<td>2009-12-23</td><td>Octopussy v0.9.9.8 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=261 text="revision 261" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='0998' -%>)</td>
+</tr>
+<tr>
+<td>2009-12-01</td><td><b>Download Record for November 2009 with 873 downloads</b></td>
+</tr>
+<tr>
+<td>2009-11-30</td><td>Octopussy reached <b>12000 downloads</b></td>
+</tr>
+<tr>
+<td>2009-11-24</td><td>Octopussy v0.9.9.7 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=247 text="revision 247" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='0997' -%>)</td>
+</tr>
+<tr>
+<td>2009-11-01</td><td><b>Download Record for October 2009 with 764 downloads</b></td>
+</tr>
+<tr>
+<td>2009-10-21</td><td>Octopussy v0.9.9.6 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='0996' -%>)</td>
+</tr>
+<tr>
+<td>2009-08-28</td><td><b>Octopussy reached 10 000 downloads</b></td>
+</tr>
+<tr>
+<td>2009-07-08</td><td>Website has been unavailable between 07 July 15:00 and 08 July 12:20 ! :(</td>
+</tr>
+<tr>
+<td>2009-05-28</td><td>Octopussy reached <b>9000 downloads</b></td>
+</tr>
+<tr>
+<td>2009-05-18</td><td>Octopussy v0.9.9.4 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='0994' -%>)</td>
+</tr>
+<tr>
+<td>2009-05-12</td><td>A new look for the WebSite !</td>
+</tr>
+<tr>
+<td>2009-04-28</td><td>Octopussy v0.9.9.3 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=188 text="revision 188" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='0993' -%>)</td>
+</tr>
+<tr>
+<td>2009-04-20</td><td>Octopussy v0.9.9.2 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=186 text="revision 186" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='0992' -%>)</td>
+</tr>
+<tr>
+<td>2009-04-01</td><td><b>Download Record for March 2009 with 677 downloads</b></td>
+</tr>
+<tr>
+<td>2009-03-14</td><td>Octopussy reached <b>8000 downloads</b></td>
+</tr>
+<tr>
+<td>2009-03-01</td><td><b>Download Record for February 2009 with 508 downloads</b></td>
+</tr>
+<tr>
+<td>2009-02-25</td><td>Octopussy v0.9.9.1 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=176 text="revision 176" %> in subversion) (Last release was really buggy. Check this one !) (<%- INCLUDE 'widgets/link_changelog.tt' version='0991' -%>)</td>
+</tr>
+<tr>
+<td>2009-02-23</td><td>Octopussy v0.9.9 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=174 text="revision 174" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='099' -%>)</td>
+</tr>
+</table>
+
+		</div>
+		</div>
+	</div>
+	<div class="accordion-group">
+        <div class="accordion-heading">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion_history" href="#collapse2008">2008</a>
+        </div>
+        <div id="collapse2008" class="accordion-body collapse">
+        <div class="accordion-inner">
+
+<table class="table table-bordered">
+<tr>
+<td>2008-12-22</td><td>Octopussy reached <b>7000 downloads</b></td>
+</tr>
+<tr>
+<td>2008-12-02</td><td>Octopussy v0.9.8.8 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=152 text="revision 152" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='0988' -%>)</td>
+</tr>
+<tr>
+<td>2008-12-01</td><td><b>Download Record for November 2008 with 473 downloads</b></td>
+</tr>
+<tr>
+<td>2008-11-25</td><td>Octopussy v0.9.8.7 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=146 text="revision 146" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='0987' -%>)</td>
+</tr>
+<tr>
+<td>2008-11-18</td><td>Screencast 1 - Change User Settings</td>
+</tr>
+<tr>
+<td>2008-11-17</td><td>Octopussy v0.9.8.6 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=133 text="revision 133" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='0986' -%>)</td>
+</tr>
+<tr>
+<td>2008-11-13</td><td>Octopussy v0.9.8.5 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=131 text="revision 131" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='0985' -%>)</td>
+</tr>
+<tr>
+<td>2008-10-29</td><td>Octopussy v0.9.8.4 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=121 text="revision 121" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='0984' -%>)</td>
+</tr>
+<tr>
+<td>2008-10-11</td><td>Octopussy reached <b>6000 downloads</b></td>
+</tr>
+<tr>
+<td>2008-10-04</td><td>Octopussy now on <a href="https://code.launchpad.net/octopussy">Launchpad</a></td>
+</tr>
+<tr>
+<td>2008-09-04</td><td>Octopussy v0.9.8.1 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=99 text="revision 99" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='0981' -%>)</td>
+</tr>
+<tr>
+<td>2008-09-03</td><td>Octopussy v0.9.8 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=97 text="revision 97" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='098' -%>)</td>
+</tr>
+<tr>
+<td>2008-07-25</td><td>Octopussy reached <b>5000 downloads</b></td>
+</tr>
+<tr>
+<td>2008-07-24</td><td>Octopussy v0.9.7.6 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=85 text="revision 85" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='0976' -%>)</td>
+</tr>
+<tr>
+<td>2008-07-17</td><td>Octopussy now on <a href="http://www.ohloh.net/projects/Octopussy">Ohloh</a> !
+</tr>
+<tr>
+<td>2008-07-16</td><td>Octopussy v0.9.7.4 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=81 text="revision 81" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='0974' -%>)</td>
+</tr>
+<tr>
+<td>2008-07-07</td><td>Octopussy v0.9.7 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=78 text="revision 78" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='097' -%>)</td>
+</tr>
+<tr>
+<td>2008-05-28</td><td>Octopussy v0.9.6.6 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=74 text="revision 74" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='0966' -%>)</td>
+</tr>
+<tr>
+<td>2008-05-06</td><td><b>Nagios Plugin</b> <a href="http://exchange.nagios.org/directory/Plugins/Log-Files/check_octopussy-2Epl--2D-Nagios-Plugin-that-checks-Octopussy/details">check_octopussy.pl</a> updated on <b>NagiosExchange</b>.</td>
+</tr>
+<tr>
+<td>2008-04-29</td><td><b>Nagios Plugin</b> <a href="http://exchange.nagios.org/directory/Plugins/Log-Files/check_octopussy-2Epl--2D-Nagios-Plugin-that-checks-Octopussy/details">check_octopussy.pl</a> added on <b>NagiosExchange</b>.</td>
+</tr>
+<tr>
+<td>2008-04-28</td><td>Octopussy v0.9.6.2 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=68 text="revision 68" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='0962' -%>)</td>
+</tr>
+<tr>
+<td>2008-04-21</td><td>Octopussy v0.9.6 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=61 text="revision 61" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='096' -%>)</td>
+</tr>
+<tr>
+<td>2008-04-10</td><td>Octopussy v0.9.5.8 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=53 text="revision 53" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='0958' -%>)</td>
+</tr>
+<tr>
+<td>2008-03-12</td><td>Octopussy reached <b>4000 downloads</b> approximatively 27 months after the first release</td>
+</tr>
+<tr>
+<td>2008-03-11</td><td>Octopussy v0.9.5.4 release. (Russion Translation added) <% INCLUDE 'widgets/link_svn_revision.tt' revision=38 text="revision 38" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='0954' -%>)</td>
+</tr>
+<tr>
+<td>2008-02-12</td><td>Octopussy v0.9.5 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=25 text="revision 25" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='095' -%>)</td>
+</tr>
+<tr>
+<td>2008-01-17</td><td>Octopussy source code is now on <a href="http://syslog-analyzer.svn.sourceforge.net/viewvc/syslog-analyzer/">Sourceforge Subversion</a></td>
+</tr>
+</table>
+
+		</div>
+        </div>
+	</div>
+    <div class="accordion-group">
+        <div class="accordion-heading">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion_history" href="#collapse2007">2007</a>
+        </div>
+        <div id="collapse2007" class="accordion-body collapse">
+        <div class="accordion-inner">
+
+<table class="table table-bordered">
+<tr>
+<td>2007-12-26</td><td>First <b>donation</b> to Octopussy !</td>
+</tr>
+<tr>
+<td>2007-12-19</td><td>Octopussy v0.9.4.8 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='0948' -%>)</td>
+</tr>
+<tr>
+<td>2007-11-21</td><td>New <a href="/screenshots">Screenshots</a> for the 0.9.4.4 version. (RRDGraph Lines vs Stacks)</td>
+</tr>
+<tr>
+<td>2007-11-21</td><td>Octopussy v0.9.4.4 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='0944' -%>)</td>
+</tr>
+<tr>
+<td>2007-11-14</td><td>New <a href="/screenshots">Screenshots</a> for the 0.9.4 version.</td>
+</tr>
+<tr>
+<td>2007-11-14</td><td>Octopussy v0.9.4 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='094' -%>)</td>
+</tr>
+<tr>
+<td>2007-11-06</td><td>Octopussy now on <a href="http://www.facebook.com/group.php?gid=14120710509">Facebook</a></td>
+</tr>
+<tr>
+<td>2007-10-24</td><td>Octopussy v0.9.3.8 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='0938' -%>)</td>
+</tr>
+<tr>
+<td>2007-10-17</td><td>Octopussy v0.9.3.4 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='0934' -%>)</td>
+</tr>
+<tr>
+<td>2007-10-12</td><td>Octopussy reached <b>3000 downloads</b> approximatively 22 months after the first release</td>
+</tr>
+<tr>
+<td>2007-10-03</td><td>Octopussy v0.9.3.1 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='0931' -%>)</td>
+</tr>
+<tr>
+<td>2007-10-01</td><td>Octopussy v0.9.3 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='093' -%>)</td>
+</tr>
+<tr>
+<td>2007-09-14</td><td>Octopussy v0.9.2.4 release. (Last release was really buggy. Check this one !) (<%- INCLUDE 'widgets/link_changelog.tt' version='0924' -%>)</td>
+</tr>
+<tr>
+<td>2007-08-14</td><td>Octopussy v0.9.2 release. (First release with the *Apache::ASP Toolkit*) (<%- INCLUDE 'widgets/link_changelog.tt' version='092' -%>)</td>
+</tr>
+<tr>
+<td>2007-06-08</td><td>Ressources Section added. Now you can check Services handled by Octopussy Online !</td>
+</tr>
+<tr>
+<td>2007-05-10</td><td>Octopussy v0.9.1.3 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='0913' -%>)</td>
+</tr>
+<tr>
+<td>2007-05-09</td><td>Octopussy v0.9.1.2 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='0912' -%>)</td>
+</tr>
+<tr>
+<td>2007-05-02</td><td>Octopussy v0.9.1.1 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='0911' -%>)</td>
+</tr>
+<tr>
+<td>2007-04-27</td><td>Octopussy v0.9.1 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='091' -%>)</td>
+</tr>
+<tr>
+<td>2007-04-11</td><td>Octopussy reached <b>2000 downloads</b> approximatively 16 months after the first release</td>
+</tr>
+<tr>
+<td>2007-04-04</td><td>Octopussy v0.9.0.8 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='0908' -%>)</td>
+</tr>
+<tr>
+<td>2007-03-27</td><td>Octopussy v0.9.0.6 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='0906' -%>)</td>
+</tr>
+<tr>
+<td>2007-03-06</td><td>Octopussy v0.9.0.2 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='0902' -%>)</td>
+</tr>
+<tr>
+<td>2007-02-28</td><td>Octopussy v0.9 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='09' -%>)</td>
+</tr>
+<tr>
+<td>2007-02-22</td><td>Tutorials Section added to Octopussy Website. First tutorial: <a href="/documentation/tutorials/new_service">New Service Creation</a></td>
+</tr>
+<tr>
+<td>2007-01-05</td><td>Octopussy v0.8.9.9 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='0899' -%>)</td>
+</tr>
+<tr>
+<td>2007-01-03</td><td>Octopussy v0.8.9.8 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='0898' -%>)</td>
+</tr>
+</table>
+
+	</div>
+    </div>
+    <div class="accordion-group">
+        <div class="accordion-heading">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion_history" href="#collapse2006">2006</a>
+        </div>
+        <div id="collapse2006" class="accordion-body collapse">
+        <div class="accordion-inner">
+
+<table class="table table-bordered">
+<tr>
+<td>2006-12-10</td><td>Octopussy reached <b>1000 downloads</b> approximatively one year after the first release !</td>
+</tr>
+<tr>
+<td>2006-11-29</td><td>Octopussy v0.8.9.6 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='0896' -%>)</td>
+</tr>
+<tr>
+<td>2006-11-24</td><td>Octopussy v0.8.9.5 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='0895' -%>)</td>
+</tr>
+<tr>
+<td>2006-11-07</td><td>Octopussy v0.8.9 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='089' -%>)</td>
+</tr>
+<tr>
+<td>2006-09-20</td><td>Octopussy v0.8.8 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='088' -%>)</td>
+</tr>
+<tr>
+<td>2006-08-31</td><td>Octopussy v0.8.7.4 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='0874' -%>)</td>
+</tr>
+<tr>
+<td>2006-08-09</td><td>Octopussy v0.8.7 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='087' -%>)</td>
+</tr>
+<tr>
+<td>2006-08-04</td><td>Octopussy v0.8.6.2 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='0862' -%>)</td>
+</tr>
+<tr>
+<td>2006-08-02</td><td>Octopussy v0.8.6 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='086' -%>)</td>
+</tr>
+<tr>
+<td>2006-07-21</td><td>Octopussy v0.8.5 release. (v0.8.4 was completely buggy, get this one instead !) (<%- INCLUDE 'widgets/link_changelog.tt' version='085' -%>)</td>
+</tr>
+<tr>
+<td>2006-07-19</td><td>Octopussy v0.8.4 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='084' -%>)</td>
+</tr>
+<tr>
+<td>2006-07-11</td><td>Octopussy v0.8.2 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='082' -%>)</td>
+</tr>
+<tr>
+<td>2006-07-05</td><td>Octopussy v0.8 release. First release on <a href="https://freecode.com/">Freshmeat</a> (<%- INCLUDE 'widgets/link_changelog.tt' version='08' -%>)</td>
+</tr>
+<tr>
+<td>2006-06-06</td><td>Octopussy v0.7.9 release. (<%- INCLUDE 'widgets/link_changelog.tt' version='079' -%>)</td>
+</tr>
+<tr>
+<td>2006-04-28</td><td>Octopussy v0.7.75 release. <b>First Debian Package</b> !</td>
+</tr>
+<tr>
+<td>2006-01-23</td><td>Octopussy v0.6.4 release.</td>
+</tr>
+<tr>
+<td>2006-01-16</td><td>Octopussy v0.6 release.</td>
+</tr>
+<tr>
+<td>2006-01-11</td><td>Octopussy v0.5.6 release.</td>
+</tr>
+</table>
+
+	</div>
+    </div>
+	<div class="accordion-group">
+        <div class="accordion-heading">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion_history" href="#collapse2005">2005</a>
+        </div>
+        <div id="collapse2005" class="accordion-body collapse">
+        <div class="accordion-inner">
+
+<table class="table table-bordered">
+<tr>
+<td>2005-12-29</td><td>Octopussy v0.5.2 release.</td>
+</tr>
+<tr>
+<td>2005-12-28</td><td>Octopussy v0.5 release.</td>
+</tr>
+<tr>
+<td>2005-12-14</td><td>Octopussy v0.4 - <b>First Public Release</b> !</td>
+</tr>
+</table>
+
+	</div>
+    </div>
+</div>
