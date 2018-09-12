@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td><div class="g-community" data-href="https://plus.google.com/communities/116407553029092753056"></div></td>
-<td><script type="text/javascript" src="http://www.ohloh.net/p/14575/widgets/project_basic_stats.js"></script></td>
+<td><script type="text/javascript" src="https://www.openhub.net/p/14575/widgets/project_basic_stats.js"></script></td>
 <td><div class="fb-like-box" data-href="http://www.facebook.com/pages/Octopussy/117548621666188" data-width="292" data-show-faces="true" data-stream="false" data-header="false"></div></td>
 </tr>
 </table>
@@ -28,7 +28,7 @@ You can contribute to Octopussy Project in many ways:
 <tr>
 <th>Contributor</th>
 <th>Contribution</th>
-<th>SourceForge/Ohloh/StackOverflow details</th>
+<th>SourceForge/OpenHub/StackOverflow details</th>
 </tr>
 </thead>
 <tbody>
@@ -36,7 +36,7 @@ You can contribute to Octopussy Project in many ways:
 <td>Sebastien Thebert</td><td>Project Leader</td>
 <td>
 <% INCLUDE 'widgets/link_sourceforge_user.tt' user='sebthebert' %>
-<% INCLUDE 'widgets/badge_ohloh_user.tt' userid=21166 %>
+<% INCLUDE 'widgets/badge_openhub_user.tt' userid=21166 %>
 <% INCLUDE 'widgets/badge_stackexchange_user.tt' userid='1e4cf9844a4b427aaa52d7f76e851443' %>
 </td>
 </tr>
@@ -63,7 +63,7 @@ You can contribute to Octopussy Project in many ways:
 <tr>
 <td>Hubert Gendrot</td><td>Bug Reports & Service/Table Updates</td>
 <td><% INCLUDE 'widgets/link_sourceforge_user.tt' user='hubert_78' %>
-<% INCLUDE 'widgets/badge_ohloh_user.tt' userid=22576 %>
+<% INCLUDE 'widgets/badge_openhub_user.tt' userid=22576 %>
 </td>
 </tr>
 <tr>
@@ -89,7 +89,7 @@ You can contribute to Octopussy Project in many ways:
 <tr>
 <td>Andrew Pantyukhin (aka <i>infofarmer</i>)</td><td>Donation & Russian Translation</td>
 <td><% INCLUDE 'widgets/link_sourceforge_user.tt' user='infofarmer' %>
-<% INCLUDE 'widgets/badge_ohloh_user.tt' userid=1844 %>
+<% INCLUDE 'widgets/badge_openhub_user.tt' userid=1844 %>
 </td>
 </tr>
 <tr>

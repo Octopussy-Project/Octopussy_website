@@ -331,7 +331,7 @@ The bugs, feature-requests, support-requests & patches tickets have been migrate
 <td>2008-07-24</td><td>Octopussy v0.9.7.6 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=85 text="revision 85" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='0976' -%>)</td>
 </tr>
 <tr>
-<td>2008-07-17</td><td>Octopussy now on <a href="http://www.ohloh.net/projects/Octopussy">Ohloh</a> !
+<td>2008-07-17</td><td>Octopussy now on <a href="https://www.openhub.net/p/Octopussy">OpenHub</a> !
 </tr>
 <tr>
 <td>2008-07-16</td><td>Octopussy v0.9.7.4 release. <% INCLUDE 'widgets/link_svn_revision.tt' revision=81 text="revision 81" %> in subversion) (<%- INCLUDE 'widgets/link_changelog.tt' version='0974' -%>)</td>
