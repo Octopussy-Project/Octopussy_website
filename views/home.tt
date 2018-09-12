@@ -18,12 +18,6 @@
 
 </td>
 </tr>
-<tr>
-<td><% INCLUDE 'widgets/badge_openhub.tt' %></td>
-<td><a class="FlattrButton" style="display:none;" href="http://www.8pussy.org"></a></td>
-<td><% INCLUDE 'widgets/badge_facebook_like.tt' %></td>
-<td><% INCLUDE 'widgets/badge_google_plus_one.tt' %></td>
-</tr>
 </table>
 </div>
 
